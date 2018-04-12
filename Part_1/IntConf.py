@@ -1,7 +1,7 @@
 ## @package IntConf
 #  Module de calcul des intervalles de confiance .
 #  @details Réalise l'intervalle de confiance de prédiction et retourne un fichier contenant des statistiques descriptives sur chaque cluster
-#  @author Ilyas
+#  @author Isma
 #  @version 1.1.0
 #  @date 29 septembre 2017
 

@@ -1,7 +1,7 @@
 
 ## @package data_preparation
 #  Module de la data préparation.
-#  @author Ilyas
+#  @author Isma
 #  @version 1.1.0
 #  @date 29 septembre 2017
 

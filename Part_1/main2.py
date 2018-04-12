@@ -3,7 +3,7 @@
 #  Module d'execution du flux des traitements.
 #  @version 1.0.1
 #  @date 27 Novembre 2017
-#  @author Igor
+#  @author Igor et Isma
 
 #################################
 ###### Import standard modules #####

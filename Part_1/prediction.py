@@ -1,7 +1,7 @@
 
 ## @package prediction
 #  Module de calcul des prédictions.
-#  @author Ilyas
+#  @author Isma
 #  @version 1.1.0
 #  @date 23 Octobre 2017
 

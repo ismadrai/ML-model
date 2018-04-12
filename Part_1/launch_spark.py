@@ -3,7 +3,7 @@
 #
 #  @version 1.1.0
 #  @date 5 décembre 2017
-#  @author Claire
+#  @author Claire et Isma
 
 import pandas as pd
 #import os

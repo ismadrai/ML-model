@@ -10,7 +10,7 @@
 #
 #  @version 1.1.0
 #  @date 29 Novembre 2017
-#  @author Igor
+#  @author Igor et Isma
 
 #%matplotlib inline
 import pandas as pd

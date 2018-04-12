@@ -1,6 +1,6 @@
 ## @package correlation
 #  Module de calcul des correlations.
-#  @author Ilyas
+#  @author Isma
 #  @version 1.1.0
 #  @date : 217 Octobre 2017
 
@@ -8,7 +8,7 @@
 """
 Created on Thu Jun  9 16:02:07 2016
 
-@author: HyperCube
+@author: Isma
 """
 
 

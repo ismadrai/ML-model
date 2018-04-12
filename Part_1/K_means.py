@@ -3,7 +3,7 @@
 #  Consiste à former des cluster d'individus et de s'assurer que chaque cluster possède assez de VAE connues.
 #  @version 1.1.0
 #  @date 17 Octobre 2017
-#  @author Ilyas
+#  @author Isma
 
 ## Documentation de la méthode de K-means class
 
